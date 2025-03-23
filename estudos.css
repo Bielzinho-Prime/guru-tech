@@ -1,0 +1,29 @@
+body {
+    color: rgb(255, 255, 255);
+    background-color: rgb(107, 11, 123);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+ul {
+    display: flex;
+    justify-content: space-between;
+    list-style: none;
+    font-size: 25px;
+    align-items: center;
+    padding: 12px;
+}
+
+a {
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+}
+
+img {
+    width: 100px;
+    height: 100px;
+}
+
+.center {
+    text-align: center;
+}
+
